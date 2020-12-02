@@ -1,3 +1,5 @@
+import day2.Solution
+
 fun main(args: Array<String>) {
-    println("Hello World!")
+    print(Solution.problem2())
 }
