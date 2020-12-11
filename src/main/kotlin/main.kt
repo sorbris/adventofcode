@@ -1,5 +1,6 @@
-import day2.Solution
+import day9.Solution
 
 fun main(args: Array<String>) {
-    print(Solution.problem2())
+    println("Solution for problem1: ${Solution.problem1()}")
+    println("Solution for problem2: ${Solution.problem2()}")
 }
